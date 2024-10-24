@@ -1,4 +1,4 @@
-Welcome to the DataBase-project, We created this project during the Database course at Birzeit University, and we chose Royal Company to be the company for which the program would be built. We attach some pictures of the interfaces we prepared:
+Welcome to the DataBase-project, This project was developed as part of the database course at Birzeit University for Royal Company. The project contains several interfaces, including a login screen, a new user registration screen, an admin dashboard, screens for managing customers and sales, and other interfaces. We attach some pictures of the interfaces we prepared:
 
 ![download (2)](https://github.com/user-attachments/assets/5c3d6bca-1bc5-4b3c-85ff-793431a0c55c)
 ![download (3)](https://github.com/user-attachments/assets/c7238c6f-7ba3-42f0-b62c-2b8027a2e4ea)
